@@ -8,7 +8,9 @@ Fun fact: I love learning and interacting with animals.  I like animals such as 
 
 My Stats:
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walterhart&count_private=true&theme=tokyonight)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walterhart&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ ![Walter Hart stats](https://github-readme-stats.vercel.app/api?username=walterhart&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walterhart&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
